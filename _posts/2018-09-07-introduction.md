@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Introduction"
+published: true
 ---
 
 # Hello!
