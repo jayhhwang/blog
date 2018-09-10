@@ -2,7 +2,7 @@
 permalink: /reading/
 ---
 
-[The Value of Asking Questions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3596240/)
+[The Value of Asking Questions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3596240/)  
 [Of Oaths and Checklists](https://www.oreilly.com/ideas/of-oaths-and-checklists)  
 [Frontiers of Generalization in NLP](https://thegradient.pub/frontiers-of-generalization-in-natural-language-processing/)  
 [Transfer Learning in NLP](https://blog.feedly.com/transfer-learning-in-nlp)  
