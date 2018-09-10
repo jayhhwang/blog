@@ -12,3 +12,7 @@ main:
   #   url: /sitemap/
   - title: "Reading List"
     url: /reading/
+  - title: "Collection"
+    url: /collection/
+  - title: "Demo"
+    url: /demo/
