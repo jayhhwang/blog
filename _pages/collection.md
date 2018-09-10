@@ -7,5 +7,6 @@ Codebases
 [ULMFiT](https://github.com/fastai/fastai)  
   
 Datasets  
-[Amazon QA](http://jmcauley.ucsd.edu/data/amazon/qa/)
 [List of NLP Datasets](https://machinelearningmastery.com/datasets-natural-language-processing/)  
+[Amazon QA](http://jmcauley.ucsd.edu/data/amazon/qa/)  
+
