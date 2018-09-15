@@ -19,3 +19,7 @@ Papers
 [SQuAD Description](https://arxiv.org/pdf/1606.05250)  
 [SQuAD 1.0](http://arxiv.org/abs/1606.05250)  
 [SQuAD 2.0](http://arxiv.org/abs/1806.03822)  
+
+Textbooks
+Natural Language Annotation for Machine Learning. A Guide to Corpus-Building for Applications. James Pustejovsky, Amber Stubbs.
+Computational Analysis of Present-day American English. Henry Kučera, Francis, W. Nelson.
