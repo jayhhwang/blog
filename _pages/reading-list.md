@@ -25,5 +25,5 @@ Natural Language Annotation for Machine Learning. A Guide to Corpus-Building for
 Computational Analysis of Present-day American English. Henry Kučera, Francis, W. Nelson.  
 
 Statistics  
-Zipf Distribution is an Poisson Inverse-Gaussian? http://www.garfield.library.upenn.edu/classics1986/A1986A777200001.pdf  
-Poisson Inverse-Gaussian https://link.springer.com/content/pdf/10.1007/BF02613581.pdf  
+[Zipf Distribution is an Poisson Inverse-Gaussian?](http://www.garfield.library.upenn.edu/classics1986/A1986A777200001.pdf)  
+[Poisson Inverse-Gaussian](https://link.springer.com/content/pdf/10.1007/BF02613581.pdf)  
