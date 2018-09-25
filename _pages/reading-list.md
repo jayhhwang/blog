@@ -28,3 +28,6 @@ Statistics
 [Zipf Distribution is an Poisson Inverse-Gaussian?](http://www.garfield.library.upenn.edu/classics1986/A1986A777200001.pdf)  
 [Poisson Inverse-Gaussian](https://link.springer.com/content/pdf/10.1007/BF02613581.pdf)  
 [Statistical Analyses Support Power Law Distributions Found in Neuronal Avalanches](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019779)  
+
+Language Acquisition
+[Medium] (https://medium.com/@chacon/mit-scientists-prove-adults-learn-language-to-fluency-nearly-as-well-as-children-1de888d1d45f)
