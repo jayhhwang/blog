@@ -1,4 +1,4 @@
 ---
-permalink: (https://github.com/jayhhwang)
+permalink: /collection/
 ---
 
