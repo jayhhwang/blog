@@ -10,8 +10,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Homepage"
-    url: /homepage/
   - title: "CV"
     url: /cv/
   - title: "Analytics"
