@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data-informed, Vision-Driven."
+title                    : "Data-Informed, Vision-Driven."
 title_separator          : "-"
 name                     : "Jay Hwang"
 description              : "MS Applied Statistics"
