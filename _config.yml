@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Jay Hwang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "bluejay.jpeg"
   bio              : "MS Applied Statistics"
   location         : "Los Angeles, CA"
   email            :
