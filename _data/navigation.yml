@@ -16,8 +16,8 @@ main:
     url: /analytics/
   - title: "Visualizations"
     url: /visualizations/
-  - title: "Codebase"
-    url: https://github.com/jayhhwang
+ # - title: "Codebase"
+ #   url: https://github.com/jayhhwang
   - title: "Datasets"
     url: /datasets/
   - title: "Reading List"
