@@ -105,7 +105,7 @@ author:
   bio              : "MS Applied Statistics"
   location         : "Los Angeles, CA"
   email            :
-  uri              :
+  uri              : https://www.kaggle.com/jayhwang
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -117,7 +117,6 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  kaggle           : jayhwang
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
